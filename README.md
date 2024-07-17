@@ -6,11 +6,15 @@ A basic chatbot which can respond to software development-related questions was 
 ```
 cd software-dev-chatbot
 ```
-2. Run the application following the command.
+2. Change the 'Your ChatGPT API key' into your OpenAI API Key in the config.js. If you don't have a ChatGPT account, please go to the following URL and sign up first.
+```
+https://platform.openai.com/login?launch
+```
+3. Run the application following the command.
 ```
 node server.js
 ```
-3. Open the application. The port number is 3000.
+4. Open the application. The port number is 3000.
 
 # How Application Works
 When you open the application, the following screen shows up.
